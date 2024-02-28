@@ -1,2 +1,8 @@
-# BNBHackatonDepin
-A test of concept of depin in BNB.
+# BNBHackatonopBNBExplorer
+A test of concept of opBNB explorer.
+dependences
+ web3
+pydal
+
+
+
